@@ -1,0 +1,101 @@
+.contact {
+    height: 100vh;
+    width: 80%;
+
+}
+.form-group {
+  width: 55%;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+
+
+.submit-btn {
+  width: 55%;
+  background-color: darkorange;
+  color: black;
+  padding: 9px 20px;
+  margin: 5px 0;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: large;
+}
+
+.submit-btn:hover {
+  background-color: #e47b19;
+}
+
+.section-title {
+  margin-top: 15vh;
+  color: rgb(126, 126, 126);
+  font-size: 27px;
+  font-family: sans-serif;
+}
+.contactHead{
+  color: darkorange;
+}
+
+.line {
+  color: darkorange;
+}
+.checkboxText {
+  font-size: 1rem;
+  text-decoration: none;
+  color: var(--white);
+}
+.checkboxdiv {
+  width: 55%;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+
+
+
+@media (max-width: 1000px) {
+.form-group {
+  width: 100%;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+.checkboxdiv {
+  width: 100%;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+.submit-btn {
+  width: 100%;
+  background-color: darkorange;
+  color: black;
+  padding: 9px 20px;
+  margin: 5px 0;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: large;
+}
+}
