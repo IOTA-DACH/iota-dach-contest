@@ -15,6 +15,8 @@ function Home() {
                 <a>Was gibt es zu gewinnen?</a>
                 <br />
                 <br />
+            <div className="preise">
+                <br />
                 <a>1. Platz: 40 Miota + 1 IOTA Cawendar + 1 limitierten Chrysalis Dog Tag/Schlüsselanhänger #1 + 1 IOTA Münze </a>
                 <br />
                 <a>2. Platz: 25 Miota + 1 limitierten Chrysalis Dog Tag/Schlüsselanhänger #2 + 1 IOTA Münze</a>
@@ -27,6 +29,8 @@ function Home() {
                 <br />
                 <a>6. Platz: Trostpreis 1 limitierten "Krüsalis" Dog Tag/Schlüsselanhänger #1</a>
                 <br />
+                <br />
+            </div>
                 <br />
                 <a>Was muss ich machen um zu gewinnen?</a>
                 <br />
@@ -49,30 +53,24 @@ function Home() {
                    <br />
                    <br />
                     <a>
-                    Teilnahmebedingungen:
-                   <br />
-                   <br />
-                   Mehrfachteilname ist ausgeschlossen <br/>
-                   Teilnahme aus Deutschland, Österreich und der Schweiz<br/>
-                   Bitte nur ernstgemeinte Einsendungen
-                   <br />
-                   <br />
 
                    Zeitraum der Teilnahme: Freitag 09.04.2021 10 Uhr - Freitag 16.04.21 bis 20 Uhr <br/>
                    Zeitraum der Auslosung: Samstag 17.04.21 - Mittwoch 21.04.21 18 Uhr<br/>
                    <br />
                    <br />
-
+                   </a>
+                </div>
+                <br />
+                <br />
+                   <a>
                    Liebe Grüße, euer IOTA DACH Admin Team
                    <br />
                    <br />
+                   </a>
 
-                    </a>
-                </div>
 
                 </span>
             </header>
-            <br />
             <br />
             <Link to="/form"  className="btn"> weiter </Link>
             <br />

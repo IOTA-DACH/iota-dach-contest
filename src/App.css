@@ -49,8 +49,13 @@
   font-size: calc(7px + 2vmin);
 }
 .bedingungen {
-  background-color: #4f535a;
+  background-color: #3c4149;
   border-radius: 5px;
+}
+.preise {
+  background-color: #3c4149;
+  border-radius: 5px;
+  margin: 5px 5px 5px 5px;
 }
 
 @media (max-width: 1000px) {
