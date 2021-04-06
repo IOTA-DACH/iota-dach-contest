@@ -41,6 +41,9 @@ function Home() {
                 <a>Die Münzen wurden vom langjährigen Community-Mitglied @ONOUAGH gespendet.</a>
                 <br />
                 <br />
+                <a>Diese Aktion ist von der Community- für die Community, und steht in keiner Verbindung zur IOTA Foundation.</a>
+                <br />
+                <br />
 
                 <div className="bedingungen">
                    <br />
@@ -55,8 +58,8 @@ function Home() {
                    <br />
                    <br />
 
-                   Zeitraum der Teilnahme: xx.xx.xxxx - xx.xx.xxxx <br/>
-                   Zeitraum der Auslosung: xx.xx.xxxx - xx.xx.xxxx <br/>
+                   Zeitraum der Teilnahme: Freitag 09.04.2021 10 Uhr - Freitag 16.04.21 bis 20 Uhr <br/>
+                   Zeitraum der Auslosung: Samstag 17.04.21 - Mittwoch 21.04.21 18 Uhr<br/>
                    <br />
                    <br />
 
