@@ -2,6 +2,7 @@ import React from "react";
 import Home from '../components/home'
 import Contact from '../components/contact'
 import Done from "../components/done";
+import Impressum from "../components/impressum";
 
 import {
     HashRouter as Router,
@@ -31,6 +32,8 @@ export default function Navigation() {
 
                     <Link to="/thanks" className="NavbarIcon2" > </Link>
 
+                    <Link to="/impressum" className="NavbarIcon2" > </Link>
+
                 </div>
 
 
@@ -47,6 +50,9 @@ export default function Navigation() {
                     </Route>
                     <Route path="/conditions">
                         <Conditions />
+                    </Route>
+                    <Route path="/impressum">
+                        <Impressum />
                     </Route>
 
                 </Switch>
