@@ -41,7 +41,7 @@ function Conditions() {
     </span>
     <br />
             </header>
-            <Link to="/form"  className="btn"> zurück </Link>
+            <Link to="/"  className="btn"> zurück </Link>
             
         </div>
     );
