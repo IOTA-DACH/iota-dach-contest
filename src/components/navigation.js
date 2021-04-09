@@ -3,6 +3,7 @@ import Home from '../components/home'
 import Contact from '../components/contact'
 import Done from "../components/done";
 import Impressum from "../components/impressum";
+import ScrollToTop from "./scrolltotop"
 
 import {
     HashRouter as Router,
@@ -40,15 +41,19 @@ export default function Navigation() {
 
                 <Switch>
                     <Route exact path="/">
+                        <ScrollToTop />
                         <Home />
                     </Route>
                     <Route path="/form">
+                        <ScrollToTop />
                         <Contact />
                     </Route>
                     <Route path="/thanks">
+                        <ScrollToTop />
                         <Done />
                     </Route>
                     <Route path="/conditions">
+                        <ScrollToTop />
                         <Conditions />
                     </Route>
                     <Route path="/impressum">
