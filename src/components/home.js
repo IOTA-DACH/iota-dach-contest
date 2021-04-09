@@ -17,15 +17,20 @@ function Home() {
                 <br />
             <div className="preise">
                 <br />
-                <a>1. Platz: 40 Miota + 1 IOTA Cawendar + 1 limitierten Chrysalis Dog Tag/Schlüsselanhänger #1 + 1 IOTA Münze </a>
+                <a>1. Platz: 60 Miota + 1 IOTA CaWENdar + 1 limitierten Chrysalis Dog Tag/Schlüsselanhänger #1 + 1 IOTA Münze </a>
                 <br />
-                <a>2. Platz: 25 Miota + 1 limitierten Chrysalis Dog Tag/Schlüsselanhänger #2 + 1 IOTA Münze</a>
                 <br />
-                <a>3. Platz: 10 Miota + 1 limitierten Chrysalis Dog Tag/Schlüsselanhänger #3 + 1 IOTA Münze</a>
+                <a>2. Platz: 40 Miota + 1 limitierten Chrysalis Dog Tag/Schlüsselanhänger #2 + 1 IOTA Münze</a>
+                <br />
+                <br />
+                <a>3. Platz: 20 Miota + 1 limitierten Chrysalis Dog Tag/Schlüsselanhänger #3 + 1 IOTA Münze</a>
+                <br />
                 <br />
                 <a>4. Platz: 1 limitierten Chrysalis Dog Tag/Schlüsselanhänger #4 + 1 IOTA Münze</a>
                 <br />
+                <br />
                 <a>5. Platz: 1 limitierten Chrysalis Dog Tag/Schlüsselanhänger #5 + 1 IOTA Münze</a>
+                <br />
                 <br />
                 <a>6. Platz: Trostpreis 1 limitierten "Krüsalis" Dog Tag/Schlüsselanhänger #1</a>
                 <br />
@@ -39,7 +44,8 @@ function Home() {
                    Mit welchem Spruch würdest du IOTA promoten? </a>
                 <br />
                 <br />
-                <a>Die Abstimmung, um einen Gewinner zu ermitteln, findet am Ende als Umfrage in der IOTA DACH Telegram Gruppe statt.</a>
+                <a>Die Abstimmung, um einen Gewinner zu ermitteln, findet am Ende als Umfrage in der IOTA DACH Telegram Gruppe statt. 
+                   Das Adminteam wird eine Vorauswahl, von 10 Vorschlägen, treffen über die ihr dann entscheiden könnt.</a>
                 <br />
                 <br />
                 <a>Die Münzen wurden vom langjährigen Community-Mitglied @ONOUAGH gespendet.</a>

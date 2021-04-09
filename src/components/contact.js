@@ -37,7 +37,7 @@ class Contact extends Component {
                                 onChange={this.handleChange.bind(this)}
                                 required
                                 aria-describedby='emailHelp'
-                                placeholder='Telegram-Usernamen eingeben'
+                                placeholder='Telegram-Usernamen eingeben*'
                             />
                         </div>
 
@@ -50,7 +50,7 @@ class Contact extends Component {
                                 onChange={this.handleChange.bind(this)}
                                 required
                                 aria-describedby='titleHelp'
-                                placeholder='Titel der Einsendung'
+                                placeholder='Titel der Einsendung*'
                             />
                         </div>
 
@@ -62,7 +62,7 @@ class Contact extends Component {
                                 onChange={this.handleChange.bind(this)}
                                 required
                                 rows='6'
-                                placeholder='Erkläre deine Idee:'
+                                placeholder='Dein Werbespruch:*'
                             />
                         <div className="checkboxdiv"> 
                             <input
